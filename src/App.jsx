@@ -1,10 +1,10 @@
 import { Routes, Route, Link } from "react-router-dom";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Gallery from "./pages/Gallery";
-import Work from "./pages/Work";
-import Resume from "./pages/Resume";
-import Skills from "./pages/Skills";
+import Home from "./Pages/Home";
+import About from "./Pages/About";
+import Gallery from "./Pages/Gallery";
+import Work from "./Pages/Work";
+import Resume from "./Pages/Resume";
+import Skills from "./Pages/Skills";
 import "./App.css";
 
 function App() {
